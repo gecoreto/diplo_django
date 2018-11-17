@@ -1,1 +1,1 @@
-web: gunicorn exportData.wsgi
+web: gunicorn diploexportdata.wsgi
