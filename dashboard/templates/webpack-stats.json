@@ -1,0 +1,28 @@
+{
+    "status": "done",
+    "publicPath": "http://127.0.0.1:8000/",
+    "chunks": {
+        "main": [
+            {
+                "name": "static/js/main.ef53a5b5.js",
+                "publicPath": "http://127.0.0.1:8000/static/js/main.ef53a5b5.js",
+                "path": "/Users/david/Documents/desarrollo/universidad/diplomado/frontend/material-dashboard-react/build/static/js/main.ef53a5b5.js"
+            },
+            {
+                "name": "static/css/main.d2b495a6.css",
+                "publicPath": "http://127.0.0.1:8000/static/css/main.d2b495a6.css",
+                "path": "/Users/david/Documents/desarrollo/universidad/diplomado/frontend/material-dashboard-react/build/static/css/main.d2b495a6.css"
+            },
+            {
+                "name": "static/js/main.ef53a5b5.js.map",
+                "publicPath": "http://127.0.0.1:8000/static/js/main.ef53a5b5.js.map",
+                "path": "/Users/david/Documents/desarrollo/universidad/diplomado/frontend/material-dashboard-react/build/static/js/main.ef53a5b5.js.map"
+            },
+            {
+                "name": "static/css/main.d2b495a6.css.map",
+                "publicPath": "http://127.0.0.1:8000/static/css/main.d2b495a6.css.map",
+                "path": "/Users/david/Documents/desarrollo/universidad/diplomado/frontend/material-dashboard-react/build/static/css/main.d2b495a6.css.map"
+            }
+        ]
+    }
+}
