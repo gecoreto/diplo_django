@@ -1,26 +1,26 @@
 {
     "status": "done",
-    "publicPath": "http://127.0.0.1:8000/",
+    "publicPath": "./",
     "chunks": {
         "main": [
             {
-                "name": "static/js/main.cf7945d4.js",
-                "publicPath": "http://127.0.0.1:8000/static/js/main.cf7945d4.js",
-                "path": "/Users/david/Documents/desarrollo/universidad/diplomado/frontend/material-dashboard-react/build/static/js/main.cf7945d4.js"
+                "name": "static/js/main.0fb657f0.js",
+                "publicPath": "./static/js/main.0fb657f0.js",
+                "path": "/Users/david/Documents/desarrollo/universidad/diplomado/frontend/material-dashboard-react/build/static/js/main.0fb657f0.js"
             },
             {
                 "name": "static/css/main.d2b495a6.css",
-                "publicPath": "http://127.0.0.1:8000/static/css/main.d2b495a6.css",
+                "publicPath": "./static/css/main.d2b495a6.css",
                 "path": "/Users/david/Documents/desarrollo/universidad/diplomado/frontend/material-dashboard-react/build/static/css/main.d2b495a6.css"
             },
             {
-                "name": "static/js/main.cf7945d4.js.map",
-                "publicPath": "http://127.0.0.1:8000/static/js/main.cf7945d4.js.map",
-                "path": "/Users/david/Documents/desarrollo/universidad/diplomado/frontend/material-dashboard-react/build/static/js/main.cf7945d4.js.map"
+                "name": "static/js/main.0fb657f0.js.map",
+                "publicPath": "./static/js/main.0fb657f0.js.map",
+                "path": "/Users/david/Documents/desarrollo/universidad/diplomado/frontend/material-dashboard-react/build/static/js/main.0fb657f0.js.map"
             },
             {
                 "name": "static/css/main.d2b495a6.css.map",
-                "publicPath": "http://127.0.0.1:8000/static/css/main.d2b495a6.css.map",
+                "publicPath": "./static/css/main.d2b495a6.css.map",
                 "path": "/Users/david/Documents/desarrollo/universidad/diplomado/frontend/material-dashboard-react/build/static/css/main.d2b495a6.css.map"
             }
         ]
